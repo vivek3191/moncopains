@@ -13,7 +13,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background: url('img/seed.png');
+                background: url('storage/app/public/img/seed.png');
                 background-color: #fff;
                 color: #ffffff;
                 background-size: cover;
